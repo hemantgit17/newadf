@@ -1,0 +1,9 @@
+{
+	"name": "hemant-adf-dev",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d6969341-2add-49c6-8e45-b6f1ff781828",
+		"tenantId": "daf570fe-77f6-43bd-b0f6-4e042add8c48"
+	}
+}
